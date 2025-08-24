@@ -1,5 +1,6 @@
 # Customer-Churn-Analysis-
 My project focuses on analyzing customer churn using exploratory data analysis (EDA) techniques. The objective is to identify key factors influencing churn, visualize patterns, and derive insights that can help businesses improve customer retention.
+
 🎯 Objectives
 
 Understand customer churn patterns and behavior.
@@ -24,17 +25,17 @@ Insights & Interpretation – Understanding customer demographics, usage pattern
 
 ❓ Key Questions Solved
 
-What percentage of customers are churning?
+1.What percentage of customers are churning?
 
-Which services have the highest churn rates?
+2.Which services have the highest churn rates?
 
-How does tenure affect churn probability?
+3.How does tenure affect churn probability?
 
-Does monthly charges amount influence churn?
+4.Does monthly charges amount influence churn?
 
-Which customer segments are most likely to churn?
+5.Which customer segments are most likely to churn?
 
-What actionable insights can help reduce churn?
+6.What actionable insights can help reduce churn?
 
 🛠️ Tools & Technologies
 
